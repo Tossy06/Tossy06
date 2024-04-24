@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Watch Snake eating my GitHub contrubutions
-![snake gif](https://github.com/Tossy06/Tossy06/blob/output/AestheticGifs.gif)
+![snake gif](https://github.com/Tossy06/Tossy06/blob/output/xK.gif)
