@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## ⚡
+![snake gif](https://github.com/Tossy06/Tossy06/blob/output/kirby.gif)
