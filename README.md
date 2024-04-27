@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## ⚡
-![snake gif](https://github.com/Tossy06/Tossy06/blob/output/kirby.gif)
-![gato](https://github.com/Tossy06/Tossy06/assets/167591175/254cd8eb-3659-40b9-b3e0-d938041b1c4a)
+![kirby](https://github.com/Tossy06/Tossy06/assets/167591175/18533877-2cfe-4a90-8b5e-35a2340be366)
+
