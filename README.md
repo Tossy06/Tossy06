@@ -1,6 +1,6 @@
 <h1 align="center";>
 <img src="https://github.com/Tossy06/Tossy06/assets/167591175/18533877-2cfe-4a90-8b5e-35a2340be366" alt="kirby" margin = "20px">
-<img src="https://readme-typing-svg.herokuapp.com?font=Luckiest+Guy&size=45&pause=900&color=FF00FF&center=verdadero&vCenter=verdadero&repeat=verdadero&random=FALSO&width=500&height=70&lines=HOLAA;SOY+DAVID;Hi;I'M+DAVID;BONJOUR;+JE+M'APPELLE+DAVID" alt="Typing SVG" align="center" >
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=500&size=35&pause=1000&color=FFFFFF&random=false&width=500&height=70&lines=print(Saludo);Holaa%2C+Soy+David;Hi%2C+I'm+David" alt="Typing SVG" align="center"; margin = "0 20px"; />
 </h1>
 
 <!--
