@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1  >
+<h1 align="center">
   <img src="https://github.com/Tossy06/Tossy06/assets/167591175/18533877-2cfe-4a90-8b5e-35a2340be366" alt="kirby" margin = "20px">
 </h1>
 
