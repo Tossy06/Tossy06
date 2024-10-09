@@ -1,5 +1,4 @@
 <h1 align="center";>
-<img src="https://github.com/Tossy06/Tossy06/assets/167591175/18533877-2cfe-4a90-8b5e-35a2340be366" alt="kirby" margin = "20px">
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=500&size=35&pause=1000&color=FFFFFF&random=false&width=500&height=70&lines=print(Saludo);Holaa%2C+Soy+David;Hi%2C+I'm+David" alt="Typing SVG" align="center"; margin = "0 20px"; />
 </h1>
 
@@ -19,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center" >
-  <img src ="https://github.com/Tossy06/Tossy06/assets/167591175/a863e03e-b1ec-4816-8596-0a909e9497d9"alt="Bienvenido" style="width: 500px; height: 150px;" >
+  <img src="https://github.com/Tossy06/Tossy06/assets/167591175/18533877-2cfe-4a90-8b5e-35a2340be366" alt="kirby" margin = "20px">
 </h1>
 
 
