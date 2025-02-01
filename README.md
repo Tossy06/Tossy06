@@ -32,10 +32,18 @@
  <hr width="36%" >
 
 <h3>My GitHub Stats</h3>
-<p>
-   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Tossy06&theme=dark" alt="Tossy06" width = 350px />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tossy06&show_icons=true&theme=dark&locale=en&layout=compact" alt="Tossy06" width = 250px />
-   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Tossy06&show_icons=true&theme=dark&locale=en" alt="Tossy06" width = 350px />
+
+<p align="center">
+  <a href="https://github.com/Tossy06">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tossy06&theme=dark" alt="Tossy06" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tossy06&show_icons=true&theme=dark&locale=en&layout=compact" alt="Tossy06" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Tossy06">
+    <img src="https://github-readme-stats.vercel.app/api?username=Tossy06&show_icons=true&theme=dark&locale=en" alt="Tossy06" width="98%" />
+  </a>
 </p>
 
  <hr width="60%" >
