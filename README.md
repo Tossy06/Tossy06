@@ -44,6 +44,11 @@
   </a>
 </p>
 <hr width="60%" >
+<div style="display: flex; align-items: center;">
+  <!-- Imagen pequeña al lado del texto "About me" -->
+  <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" style="margin-right: 10px;"> <strong>Languages ​​and Tools ....</strong> </h2>
+ 
+</div>
 <img src="https://skillicons.dev/icons?i=python,js,django,flask,unity,tensorflow,html,css,postgresql,git,postman,fastapi,firebase" />
 
 
