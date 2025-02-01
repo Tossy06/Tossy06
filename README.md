@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm David Gómez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <img src="https://github.com/Tossy06/Tossy06/assets/167591175/18533877-2cfe-4a90-8b5e-35a2340be366" alt="kirby" margin = "20px"> </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=25&center=true&vCenter=true&width=600&height=100&lines=DavidGomez+O+Tossy..&hearts;++;Self-taught+Back-End+Developer,;Software-engineering-student,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=25&center=true&vCenter=true&width=600&height=100&lines=David+Gomez+O+Tossy..&hearts;++;Self-taught+Back-End+Developer,;Software-engineering-student,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
