@@ -31,8 +31,11 @@
 
  <hr width="36%" >
 
-<h3>My GitHub Stats</h3>
-
+<div style="display: flex; align-items: center;">
+  <!-- Imagen pequeña al lado del texto "About me" -->
+  <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" style="margin-right: 10px;"> <strong>My GitHub Stats ....</strong> </h2>
+ 
+</div>
 <p align="left">
   <a href="https://github.com/Tossy06">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tossy06&theme=dark" alt="Tossy06" width="350px" />
