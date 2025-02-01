@@ -33,19 +33,14 @@
 
 <h3>My GitHub Stats</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Tossy06">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tossy06&theme=dark" alt="Tossy06" width="350px" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tossy06&show_icons=true&theme=dark&locale=en&layout=compact" alt="Tossy06" width="250px" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Tossy06">
     <img src="https://github-readme-stats.vercel.app/api?username=Tossy06&show_icons=true&theme=dark&locale=en" alt="Tossy06" width="350px" />
   </a>
 </p>
+<hr width="60%" >
 <img src="https://skillicons.dev/icons?i=python,js,django,flask,unity,tensorflow,html,css,postgresql,git,postman,fastapi,firebase" />
 
 
