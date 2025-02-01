@@ -35,21 +35,18 @@
 
 <p align="center">
   <a href="https://github.com/Tossy06">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tossy06&theme=dark" alt="Tossy06" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tossy06&show_icons=true&theme=dark&locale=en&layout=compact" alt="Tossy06" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tossy06&theme=dark" alt="Tossy06" width="350px" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tossy06&show_icons=true&theme=dark&locale=en&layout=compact" alt="Tossy06" width="250px" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Tossy06">
-    <img src="https://github-readme-stats.vercel.app/api?username=Tossy06&show_icons=true&theme=dark&locale=en" alt="Tossy06" width="98%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Tossy06&show_icons=true&theme=dark&locale=en" alt="Tossy06" width="350px" />
   </a>
 </p>
-
- <hr width="60%" >
-
-<h3 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=python,js,django,flask,unity,tensorflow,html,css,postgresql,git" />
+<img src="https://skillicons.dev/icons?i=python,js,django,flask,unity,tensorflow,html,css,postgresql,git,postman,fastapi,firebase" />
 
 
 
