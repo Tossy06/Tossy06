@@ -156,11 +156,11 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🗳️ **Kiivota — Electoral Dashboard** | Real-time voting analytics for Colombian public entities | Odoo 19, MongoDB, AWS |
-| 🚗 **Vehicle Auction System** | Live bidding dashboard with real-time event processing | Odoo 19, OWL, Socket.IO |
+| 🗳️ **Kiivota — Electoral Dashboard** | Real-time voting analytics for Colombian public entities | Python, Odoo 19, MongoDB, AWS |
+| 🚗 **Vehicle Auction System** | Live bidding dashboard with real-time event processing | Python, Odoo 19, OWL, Socket.IO |
 | 🌱 **Automated Greenhouse** | Environmental monitoring with sensors and auto-alerts | ESP32, Firebase, Telegram |
 | 🎒 **Smart Backpack** | RFID/NFC object detection with instant notifications | ESP32, IFTTT, SMS |
-| ✅ **Electronic Voting System** | Secure digital voting with integrity validation | Django, AWS, Gunicorn |
+| ✅ **Electronic Voting System** | Secure digital voting with integrity validation | Flask, AWS, Gunicorn |
 
 ---
 
