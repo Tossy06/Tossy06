@@ -53,13 +53,13 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> **My GitHub Stats ...**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tossy06&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="Top Languages" width="280px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tossy06&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true&cache_seconds=1800" alt="Top Languages" width="280px" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Tossy06&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="GitHub Stats" width="370px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tossy06&show_icons=true&theme=tokyonight&locale=en&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="370px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tossy06&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="450px"/>
+  <img src="https://streak-stats.demolab.com?user=Tossy06&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="450px"/>
 </p>
 
 ---
