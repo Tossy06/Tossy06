@@ -52,33 +52,52 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> **My GitHub Stats ...**
 
-<!-- 
-  💡 NOTA: github-readme-stats.vercel.app (público) está deprecado y da 403.
-  Para tener tus propias stats funcionales, haz fork de:
-  https://github.com/anuraghazra/github-readme-stats
-  y despliégalo gratis en vercel.com con tu cuenta.
-  Luego reemplaza la URL por: https://TU-PROYECTO.vercel.app/api?username=Tossy06
--->
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Odoo%2018%2F19-ERP%20Dev-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Django-Backend-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Tossy06?tab=repositories">
-    <img src="https://img.shields.io/badge/🔍%20Ver%20mis%20repositorios-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <h2>🚀</h2>
+      <strong>2+</strong><br/>
+      <sub>años en producción</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>🏢</h2>
+      <strong>3+</strong><br/>
+      <sub>organizaciones atendidas</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>🗳️</h2>
+      <strong>50k+</strong><br/>
+      <sub>registros de votación gestionados</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>☁️</h2>
+      <strong>AWS</strong><br/>
+      <sub>deploys automatizados con Boto3</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <h2>🧩</h2>
+      <strong>Odoo 18/19</strong><br/>
+      <sub>módulos ERP en producción</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>📊</h2>
+      <strong>Real-time</strong><br/>
+      <sub>dashboards con OWL + Socket.IO</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>🌱</h2>
+      <strong>IoT</strong><br/>
+      <sub>proyectos con ESP32 + Firebase</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>🎓</h2>
+      <strong>Ing. Software</strong><br/>
+      <sub>Universidad Manuela Beltrán</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
