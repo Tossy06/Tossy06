@@ -1,13 +1,30 @@
+<p align="center">
+  <img src="https://github.com/Tossy06/Tossy06/assets/167591175/18533877-2cfe-4a90-8b5e-35a2340be366" alt="kirby" width="100">
+</p>
+
 <h1 align="center">
-  <b>Hi, I'm David Gómez</b>
+  Hi, I'm David Gómez
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <img src="https://github.com/Tossy06/Tossy06/assets/167591175/18533877-2cfe-4a90-8b5e-35a2340be366" alt="kirby" width="35">
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=650&height=100&lines=David+Gomez+%7C+Tossy..+%E2%99%A5;Full+Stack+Developer+%F0%9F%9A%80;Odoo+%26+ERP+Specialist;Backend+Python+Engineer;Always+learning+new+things+%3C3" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=Full+Stack+Developer+%F0%9F%9A%80;Odoo+18%2F19+ERP+Specialist+%F0%9F%A7%A9;Backend+Python+Engineer+%F0%9F%90%8D;AWS+%7C+Docker+%7C+PostgreSQL;Always+learning+new+things+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/david-gómez-662595286">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="https://github.com/Tossy06">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:davidpala8677@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Tossy06&style=flat-square&color=58a6ff&label=visitors"/>
 </p>
 
 ---
@@ -147,27 +164,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> **Connect with me ...**
-
-<p align="left">
-  <a href="https://linkedin.com/in/david-gómez-662595286" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Tossy06" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:davidpala8677@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tossy06&label=Profile%20views&color=0e75b6&style=flat" alt="Tossy06" />
-</p>
 
 <p align="center">
   <em>"I like to understand the <strong>why</strong> behind everything I learn."</em>
