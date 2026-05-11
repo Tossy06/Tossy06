@@ -52,14 +52,32 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> **My GitHub Stats ...**
 
+<!-- 
+  💡 NOTA: github-readme-stats.vercel.app (público) está deprecado y da 403.
+  Para tener tus propias stats funcionales, haz fork de:
+  https://github.com/anuraghazra/github-readme-stats
+  y despliégalo gratis en vercel.com con tu cuenta.
+  Luego reemplaza la URL por: https://TU-PROYECTO.vercel.app/api?username=Tossy06
+-->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tossy06&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true&cache_seconds=1800" alt="Top Languages" width="280px" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Tossy06&show_icons=true&theme=tokyonight&locale=en&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="370px" />
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Odoo%2018%2F19-ERP%20Dev-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tossy06&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="450px"/>
+  <img src="https://img.shields.io/badge/Django-Backend-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Tossy06?tab=repositories">
+    <img src="https://img.shields.io/badge/🔍%20Ver%20mis%20repositorios-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
