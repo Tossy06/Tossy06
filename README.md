@@ -50,6 +50,10 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> **Experience Highlights ...**
 
+<picture>
+  <img src="https://i.gifer.com/bfR.gif" width="270" height="270" align="right">
+</picture>
+
 🏢 **Nuvoll S.A.S** — Full Stack & ERP Developer *(2025 – Present)*
 - Electoral analytics dashboard with MongoDB serving 3+ organizations and 50k+ voting records
 - One-click automated AWS deployments via Python Boto3
@@ -64,6 +68,8 @@
 🔧 **Freelance IoT Projects** *(2023 – 2025)*
 - Automated Greenhouse: ESP32 + Firebase + Telegram real-time alerts
 - Smart Backpack: RFID/NFC object detection + IFTTT/SMS notifications
+
+<br clear="right"/>
 
 ---
 
@@ -161,8 +167,6 @@
 | 🌱 **Automated Greenhouse** | Environmental monitoring with sensors and auto-alerts | ESP32, Firebase, Telegram |
 | 🎒 **Smart Backpack** | RFID/NFC object detection with instant notifications | ESP32, IFTTT, SMS |
 | ✅ **Electronic Voting System** | Secure digital voting with integrity validation | Flask, AWS, Gunicorn |
-
----
 
 ---
 
